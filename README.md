@@ -7,7 +7,7 @@ I'm Bruno, a brazilian software engineer.
 ## Skills
 - 👨‍💻 TypeScript, JavaScript
 - ⚙️ React, React Native, Vue, Angular
-- :rocket: NodeJS, GraphQL
+- :rocket: NodeJS, GraphQL, NestJS 
 - 👁️ SASS, CSS, Stylus, Styled Components, Tailwind
 - 💽 SQL an NoSQL Databases
 
