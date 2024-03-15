@@ -7,7 +7,7 @@ I'm Bruno, a brazilian software engineer.
 ## Skills
 - 👨‍💻 TypeScript, JavaScript
 - ⚙️ React, React Native, Vue, Angular
-- :rocket: NodeJS, GraphQL, NestJS 
+- :rocket: NodeJS, GraphQL, NestJS
 - 👁️ SASS, CSS, Stylus, Styled Components, Tailwind
 - 💽 SQL an NoSQL Databases
 
@@ -20,4 +20,4 @@ I'm Bruno, a brazilian software engineer.
 [![GitHub brunorafael8](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/brunorafael8)
 
 
-:camera: [@bruno.rafael18](https://instagram.com/bruno.rafael18) on Instagram
+:camera: [@bruno.rafael18](https://instagram.com/brunorafaell8) on Instagram
